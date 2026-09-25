@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://jeremy-haynes-professional.deadgilder.chatgpt.site/sitemap.xml
+Sitemap: https://jeremyhaynesar.com/sitemap.xml
